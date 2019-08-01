@@ -1,0 +1,45 @@
+a:4:{s:8:"template";s:6:"havnor";s:4:"mods";a:3:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:84;}s:18:"custom_css_post_id";i:4012;}s:7:"options";a:120:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:10:"menu_order";s:30:"woocommerce_single_image_width";s:3:"600";s:33:"woocommerce_thumbnail_image_width";s:3:"300";s:30:"woocommerce_thumbnail_cropping";s:3:"1:1";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"4";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"3";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:1:"3";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}s:41:"_cs_customize_options[all_element_colors]";s:7:"#00b4ff";s:51:"_cs_customize_options[all_element_secondary_colors]";s:7:"#00b4ff";s:40:"_cs_customize_options[topbar_bg_heading]";s:0:"";s:38:"_cs_customize_options[topbar_bg_color]";s:0:"";s:42:"_cs_customize_options[topbar_border_color]";s:0:"";s:42:"_cs_customize_options[topbar_text_heading]";s:0:"";s:40:"_cs_customize_options[topbar_text_color]";s:0:"";s:40:"_cs_customize_options[topbar_link_color]";s:0:"";s:46:"_cs_customize_options[topbar_link_hover_color]";s:0:"";s:44:"_cs_customize_options[topbar_social_heading]";s:0:"";s:42:"_cs_customize_options[topbar_social_color]";s:0:"";s:48:"_cs_customize_options[topbar_social_hover_color]";s:0:"";s:47:"_cs_customize_options[header_main_menu_heading]";s:0:"";s:38:"_cs_customize_options[header_bg_color]";s:0:"";s:43:"_cs_customize_options[header_logo_bg_color]";s:0:"";s:42:"_cs_customize_options[header_border_color]";s:0:"";s:40:"_cs_customize_options[header_link_color]";s:0:"";s:46:"_cs_customize_options[header_link_hover_color]";s:0:"";s:45:"_cs_customize_options[header_submenu_heading]";s:0:"";s:39:"_cs_customize_options[submenu_bg_color]";s:0:"";s:45:"_cs_customize_options[submenu_bg_hover_color]";s:0:"";s:43:"_cs_customize_options[submenu_border_color]";s:0:"";s:41:"_cs_customize_options[submenu_link_color]";s:0:"";s:47:"_cs_customize_options[submenu_link_hover_color]";s:0:"";s:44:"_cs_customize_options[header_button_heading]";s:0:"";s:38:"_cs_customize_options[button_bg_color]";s:0:"";s:40:"_cs_customize_options[button_text_color]";s:0:"";s:42:"_cs_customize_options[button_border_color]";s:0:"";s:44:"_cs_customize_options[button_bg_hover_color]";s:0:"";s:46:"_cs_customize_options[button_text_hover_color]";s:0:"";s:48:"_cs_customize_options[button_border_hover_color]";s:0:"";s:49:"_cs_customize_options[header_transparent_heading]";s:0:"";s:44:"_cs_customize_options[trans_header_bg_color]";s:0:"";s:46:"_cs_customize_options[trans_header_link_color]";s:0:"";s:52:"_cs_customize_options[trans_header_link_hover_color]";s:0:"";s:56:"_cs_customize_options[header_transparent_sticky_heading]";s:0:"";s:51:"_cs_customize_options[trans_sticky_header_bg_color]";s:0:"";s:53:"_cs_customize_options[trans_sticky_header_link_color]";s:0:"";s:59:"_cs_customize_options[trans_sticky_header_link_hover_color]";s:0:"";s:42:"_cs_customize_options[mobile_menu_heading]";s:0:"";s:47:"_cs_customize_options[mobile_menu_toggle_color]";s:0:"";s:43:"_cs_customize_options[mobile_menu_bg_color]";s:0:"";s:49:"_cs_customize_options[mobile_menu_bg_hover_color]";s:0:"";s:45:"_cs_customize_options[mobile_menu_link_color]";s:0:"";s:51:"_cs_customize_options[mobile_menu_link_hover_color]";s:0:"";s:47:"_cs_customize_options[mobile_menu_border_color]";s:0:"";s:47:"_cs_customize_options[mobile_menu_expand_color]";s:0:"";s:53:"_cs_customize_options[mobile_menu_expand_hover_color]";s:0:"";s:50:"_cs_customize_options[mobile_menu_expand_bg_color]";s:0:"";s:56:"_cs_customize_options[mobile_menu_expand_bg_hover_color]";s:0:"";s:46:"_cs_customize_options[sidemenu_colors_heading]";s:0:"";s:39:"_cs_customize_options[sidebar_bg_color]";s:0:"";s:41:"_cs_customize_options[sidebar_text_color]";s:0:"";s:41:"_cs_customize_options[sidebar_link_color]";s:0:"";s:47:"_cs_customize_options[sidebar_link_hover_color]";s:0:"";s:48:"_cs_customize_options[sidebar_menu_border_color]";s:0:"";s:47:"_cs_customize_options[sidebar_submenu_bg_color]";s:0:"";s:49:"_cs_customize_options[sidebar_submenu_link_color]";s:0:"";s:55:"_cs_customize_options[sidebar_submenu_link_hover_color]";s:0:"";s:51:"_cs_customize_options[sidebar_submenu_border_color]";s:0:"";s:46:"_cs_customize_options[titlebar_colors_heading]";s:0:"";s:43:"_cs_customize_options[titlebar_title_color]";s:0:"";s:47:"_cs_customize_options[titlebar_sub_title_color]";s:0:"";s:46:"_cs_customize_options[breadcrumb_color_notice]";s:0:"";s:44:"_cs_customize_options[breadcrumb_text_color]";s:0:"";s:44:"_cs_customize_options[breadcrumb_link_color]";s:0:"";s:50:"_cs_customize_options[breadcrumb_link_hover_color]";s:0:"";s:42:"_cs_customize_options[breadcrumb_bg_color]";s:0:"";s:33:"_cs_customize_options[body_color]";s:0:"";s:39:"_cs_customize_options[body_links_color]";s:0:"";s:44:"_cs_customize_options[body_link_hover_color]";s:0:"";s:44:"_cs_customize_options[sidebar_content_color]";s:0:"";s:42:"_cs_customize_options[sidebar_links_color]";s:0:"";s:48:"_cs_customize_options[sidebar_links_hover_color]";s:0:"";s:44:"_cs_customize_options[content_heading_color]";s:0:"";s:44:"_cs_customize_options[sidebar_heading_color]";s:0:"";s:49:"_cs_customize_options[footer_widget_color_notice]";s:0:"";s:43:"_cs_customize_options[footer_heading_color]";s:0:"";s:40:"_cs_customize_options[footer_text_color]";s:0:"";s:40:"_cs_customize_options[footer_link_color]";s:0:"";s:46:"_cs_customize_options[footer_link_hover_color]";s:0:"";s:38:"_cs_customize_options[footer_bg_color]";s:7:"#222327";s:55:"_cs_customize_options[light_footer_widget_color_notice]";s:0:"";s:49:"_cs_customize_options[light_footer_heading_color]";s:0:"";s:46:"_cs_customize_options[light_footer_text_color]";s:0:"";s:46:"_cs_customize_options[light_footer_link_color]";s:0:"";s:52:"_cs_customize_options[light_footer_link_hover_color]";s:0:"";s:44:"_cs_customize_options[light_footer_bg_color]";s:7:"#f8f8f8";s:45:"_cs_customize_options[copyright_color_notice]";s:0:"";s:43:"_cs_customize_options[copyright_text_color]";s:0:"";s:43:"_cs_customize_options[copyright_link_color]";s:0:"";s:49:"_cs_customize_options[copyright_link_hover_color]";s:0:"";s:41:"_cs_customize_options[copyright_bg_color]";s:7:"#222327";s:45:"_cs_customize_options[copyright_border_color]";s:7:"#303239";s:51:"_cs_customize_options[light_copyright_color_notice]";s:0:"";s:49:"_cs_customize_options[light_copyright_text_color]";s:0:"";s:49:"_cs_customize_options[light_copyright_link_color]";s:0:"";s:55:"_cs_customize_options[light_copyright_link_hover_color]";s:0:"";s:47:"_cs_customize_options[light_copyright_bg_color]";s:7:"#04448e";s:51:"_cs_customize_options[light_copyright_border_color]";s:7:"#04448e";}s:6:"wp_css";s:818:"p {
+	font-size: 19px;
+}
+.hanor-section-title p {
+  font-size: 20px;
+}
+.offer-alert {
+	font-size: 18px;
+}
+.hanor-get-app .hanor-section-title {
+  padding-bottom: 6px;
+}
+.footer-widget h4 {
+  font-size: 23px;
+}
+.hanor-widget ul.footer-links li {
+  font-size: 18px;
+}
+.footer-widget-area .hanor-widget ul.address-info li {
+	font-size: 17px;
+}
+.hanor-footer .hanor-copyright .copyright-links li {
+	font-size: 17px;
+}
+.hanor-free-trail .hanor-section-title {
+   padding-bottom: 28px;
+}
+.blogs-style-three .blog-info h4 {
+  font-size: 21px;
+}
+.blogs-style-three .blog-meta {
+  font-size: 16px;
+}
+.blogs-style-three .blog-info .hanor-link {
+    font-size: 14px;
+}
+.blog-detail-wrap p {
+	font-size: 19px;
+}
+.blog-detail-wrap .blog-meta {
+	font-size: 17px;
+}
+.hanor-secondary .hanor-widget h4.widget-title {
+	font-size: 17px;
+}";}

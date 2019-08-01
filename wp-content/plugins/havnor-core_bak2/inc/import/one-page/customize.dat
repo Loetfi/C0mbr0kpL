@@ -1,0 +1,41 @@
+a:4:{s:8:"template";s:6:"havnor";s:4:"mods";a:3:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:7;}s:18:"custom_css_post_id";i:11;}s:7:"options";a:102:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}s:41:"_cs_customize_options[all_element_colors]";s:7:"#3649e5";s:51:"_cs_customize_options[all_element_secondary_colors]";s:7:"#3649e5";s:40:"_cs_customize_options[topbar_bg_heading]";s:0:"";s:38:"_cs_customize_options[topbar_bg_color]";s:7:"#ffffff";s:42:"_cs_customize_options[topbar_border_color]";s:7:"#f0f0f0";s:42:"_cs_customize_options[topbar_text_heading]";s:0:"";s:40:"_cs_customize_options[topbar_text_color]";s:7:"#9f9f9f";s:40:"_cs_customize_options[topbar_link_color]";s:7:"#9f9f9f";s:46:"_cs_customize_options[topbar_link_hover_color]";s:7:"#3649e5";s:44:"_cs_customize_options[topbar_social_heading]";s:0:"";s:42:"_cs_customize_options[topbar_social_color]";s:7:"#9f9f9f";s:48:"_cs_customize_options[topbar_social_hover_color]";s:7:"#3649e5";s:47:"_cs_customize_options[header_main_menu_heading]";s:0:"";s:38:"_cs_customize_options[header_bg_color]";s:0:"";s:43:"_cs_customize_options[header_logo_bg_color]";s:0:"";s:42:"_cs_customize_options[header_border_color]";s:0:"";s:40:"_cs_customize_options[header_link_color]";s:0:"";s:46:"_cs_customize_options[header_link_hover_color]";s:0:"";s:45:"_cs_customize_options[header_submenu_heading]";s:0:"";s:39:"_cs_customize_options[submenu_bg_color]";s:0:"";s:45:"_cs_customize_options[submenu_bg_hover_color]";s:0:"";s:43:"_cs_customize_options[submenu_border_color]";s:0:"";s:41:"_cs_customize_options[submenu_link_color]";s:0:"";s:47:"_cs_customize_options[submenu_link_hover_color]";s:0:"";s:44:"_cs_customize_options[header_button_heading]";s:0:"";s:38:"_cs_customize_options[button_bg_color]";s:0:"";s:40:"_cs_customize_options[button_text_color]";s:0:"";s:42:"_cs_customize_options[button_border_color]";s:0:"";s:44:"_cs_customize_options[button_bg_hover_color]";s:0:"";s:46:"_cs_customize_options[button_text_hover_color]";s:0:"";s:48:"_cs_customize_options[button_border_hover_color]";s:0:"";s:49:"_cs_customize_options[header_transparent_heading]";s:0:"";s:44:"_cs_customize_options[trans_header_bg_color]";s:0:"";s:46:"_cs_customize_options[trans_header_link_color]";s:0:"";s:52:"_cs_customize_options[trans_header_link_hover_color]";s:0:"";s:56:"_cs_customize_options[header_transparent_sticky_heading]";s:0:"";s:51:"_cs_customize_options[trans_sticky_header_bg_color]";s:0:"";s:53:"_cs_customize_options[trans_sticky_header_link_color]";s:0:"";s:59:"_cs_customize_options[trans_sticky_header_link_hover_color]";s:0:"";s:42:"_cs_customize_options[mobile_menu_heading]";s:0:"";s:47:"_cs_customize_options[mobile_menu_toggle_color]";s:0:"";s:43:"_cs_customize_options[mobile_menu_bg_color]";s:0:"";s:49:"_cs_customize_options[mobile_menu_bg_hover_color]";s:0:"";s:45:"_cs_customize_options[mobile_menu_link_color]";s:0:"";s:51:"_cs_customize_options[mobile_menu_link_hover_color]";s:0:"";s:47:"_cs_customize_options[mobile_menu_border_color]";s:0:"";s:47:"_cs_customize_options[mobile_menu_expand_color]";s:0:"";s:53:"_cs_customize_options[mobile_menu_expand_hover_color]";s:0:"";s:50:"_cs_customize_options[mobile_menu_expand_bg_color]";s:0:"";s:56:"_cs_customize_options[mobile_menu_expand_bg_hover_color]";s:0:"";s:46:"_cs_customize_options[sidemenu_colors_heading]";s:0:"";s:39:"_cs_customize_options[sidebar_bg_color]";s:0:"";s:41:"_cs_customize_options[sidebar_text_color]";s:0:"";s:41:"_cs_customize_options[sidebar_link_color]";s:0:"";s:47:"_cs_customize_options[sidebar_link_hover_color]";s:0:"";s:48:"_cs_customize_options[sidebar_menu_border_color]";s:0:"";s:47:"_cs_customize_options[sidebar_submenu_bg_color]";s:0:"";s:49:"_cs_customize_options[sidebar_submenu_link_color]";s:0:"";s:55:"_cs_customize_options[sidebar_submenu_link_hover_color]";s:0:"";s:51:"_cs_customize_options[sidebar_submenu_border_color]";s:0:"";s:46:"_cs_customize_options[titlebar_colors_heading]";s:0:"";s:43:"_cs_customize_options[titlebar_title_color]";s:0:"";s:47:"_cs_customize_options[titlebar_sub_title_color]";s:0:"";s:46:"_cs_customize_options[breadcrumb_color_notice]";s:0:"";s:44:"_cs_customize_options[breadcrumb_text_color]";s:0:"";s:44:"_cs_customize_options[breadcrumb_link_color]";s:0:"";s:50:"_cs_customize_options[breadcrumb_link_hover_color]";s:0:"";s:42:"_cs_customize_options[breadcrumb_bg_color]";s:0:"";s:33:"_cs_customize_options[body_color]";s:0:"";s:39:"_cs_customize_options[body_links_color]";s:0:"";s:44:"_cs_customize_options[body_link_hover_color]";s:0:"";s:44:"_cs_customize_options[sidebar_content_color]";s:0:"";s:42:"_cs_customize_options[sidebar_links_color]";s:0:"";s:48:"_cs_customize_options[sidebar_links_hover_color]";s:0:"";s:44:"_cs_customize_options[content_heading_color]";s:0:"";s:44:"_cs_customize_options[sidebar_heading_color]";s:0:"";s:49:"_cs_customize_options[footer_widget_color_notice]";s:0:"";s:43:"_cs_customize_options[footer_heading_color]";s:0:"";s:40:"_cs_customize_options[footer_text_color]";s:0:"";s:40:"_cs_customize_options[footer_link_color]";s:0:"";s:46:"_cs_customize_options[footer_link_hover_color]";s:0:"";s:38:"_cs_customize_options[footer_bg_color]";s:7:"#222327";s:55:"_cs_customize_options[light_footer_widget_color_notice]";s:0:"";s:49:"_cs_customize_options[light_footer_heading_color]";s:0:"";s:46:"_cs_customize_options[light_footer_text_color]";s:0:"";s:46:"_cs_customize_options[light_footer_link_color]";s:0:"";s:52:"_cs_customize_options[light_footer_link_hover_color]";s:0:"";s:44:"_cs_customize_options[light_footer_bg_color]";s:7:"#f8f8f8";s:45:"_cs_customize_options[copyright_color_notice]";s:0:"";s:43:"_cs_customize_options[copyright_text_color]";s:0:"";s:43:"_cs_customize_options[copyright_link_color]";s:0:"";s:49:"_cs_customize_options[copyright_link_hover_color]";s:0:"";s:41:"_cs_customize_options[copyright_bg_color]";s:7:"#222327";s:45:"_cs_customize_options[copyright_border_color]";s:7:"#303239";s:51:"_cs_customize_options[light_copyright_color_notice]";s:0:"";s:49:"_cs_customize_options[light_copyright_text_color]";s:0:"";s:49:"_cs_customize_options[light_copyright_link_color]";s:0:"";s:55:"_cs_customize_options[light_copyright_link_hover_color]";s:0:"";s:47:"_cs_customize_options[light_copyright_bg_color]";s:7:"#04448e";s:51:"_cs_customize_options[light_copyright_border_color]";s:7:"#04448e";}s:6:"wp_css";s:748:".work-item .hanor-image img {
+    -webkit-border-radius: 5px 5px 0 0;
+    -ms-border-radius: 5px 5px 0 0;
+    border-radius: 5px 5px 0 0;
+}
+
+.work-detail-wrap h3 {
+	padding-bottom:6px;
+}
+.work-detail-wrap p {
+	padding-bottom:28px;
+}
+.portfolio-detail-items-wrap .portfolio-detail-item-title {
+	 font-size:16px;
+}
+.work-info h4 {
+	font-size:20px;
+}
+.hanor-team.team-style-four h4.mate-name {
+	font-size:22px;
+}
+.blog-detail-wrap p {
+	line-height: 28px;
+}
+.hanor-testimonials.testimonials-style-five p {
+	line-height: 30px;
+}
+.hanor-secondary .hanor-widget p {
+	line-height: 25px;
+}
+.hanor-section-title h2 {
+    font-size: 40px;
+    color: #000;
+}
+.section-title {
+	padding-bottom: 13px;
+}
+.hanor-section-title p {
+	color: #777777;
+	font-size:20px
+}";}

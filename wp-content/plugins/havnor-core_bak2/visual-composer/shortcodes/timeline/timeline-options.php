@@ -1,0 +1,261 @@
+<?php
+/**
+ * Timeline - Shortcode Options
+ */
+add_action( 'init', 'havnor_timeline_vc_map' );
+if ( ! function_exists( 'havnor_timeline_vc_map' ) ) {
+  function havnor_timeline_vc_map() {
+    vc_map( array(
+      "name" => __( "Timeline", 'havnor-core'),
+      "base" => "hanor_timeline",
+      "description" => __( "Timeline Styles", 'havnor-core'),
+      "icon" => "fa fa-clock-o color-red",
+      "category" => HavnorLib::havnor_cat_name(),
+      "params" => array(
+
+        // Timeline
+        array(
+          'type' => 'param_group',
+          'value' => '',
+          'heading' => __( 'Timeline', 'havnor-core' ),
+          'param_name' => 'timeline_items',
+          // Note params is mapped inside param-group:
+          'params' => array(
+            array(
+              'type' => 'textfield',
+              'value' => '',
+              'heading' => __( 'Year', 'havnor-core' ),
+              'param_name' => 'timeline_year',
+            ),
+            array(
+              'type' => 'attach_image',
+              'value' => '',
+              'heading' => __( 'Select image', 'havnor-core' ),
+              'param_name' => 'select_image',
+            ),
+            array(
+              'type' => 'textfield',
+              'value' => '',
+              'admin_label' => true,
+              'heading' => __( 'Title', 'havnor-core' ),
+              'param_name' => 'timeline_title',
+            ),
+            array(
+              'type' => 'textfield',
+              'value' => '',
+              'heading' => __( 'Sub Title', 'havnor-core' ),
+              'param_name' => 'timeline_subtitle',
+            ),
+            array(
+              'type' => 'textarea',
+              'value' => '',
+              'heading' => __( 'Text', 'havnor-core' ),
+              'param_name' => 'timeline_text',
+            ),
+
+          )
+        ),
+        HavnorLib::vt_class_option(),
+
+        // Style
+        array(
+          "type"        => "notice",
+          "heading"     => __( "Year", 'omnitail-core' ),
+          "param_name"  => 'time_opt',
+          'class'       => 'cs-info',
+          'value'       => '',
+          'group' => __( 'Style', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'colorpicker',
+          'value' => '',
+          'heading' => __( 'Year Color', 'havnor-core' ),
+          'param_name' => 'year_color',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Pick your year color.', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'colorpicker',
+          'value' => '',
+          'heading' => __( 'Year Background Color', 'havnor-core' ),
+          'param_name' => 'year_bg_color',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Pick your year bg color.', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'textfield',
+          'value' => '',
+          'heading' => __( 'Year Size', 'havnor-core' ),
+          'param_name' => 'year_size',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Enter the px value if you used year area in timeline style type one.', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'textfield',
+          'value' => '',
+          'heading' => __( 'Year Font Weight', 'havnor-core' ),
+          'param_name' => 'year_weight',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Enter the font weight for timeline year.', 'havnor-core' ),
+        ),
+        array(
+          "type"        => "notice",
+          "heading"     => __( "Titles", 'omnitail-core' ),
+          "param_name"  => 'time_optt',
+          'class'       => 'cs-info',
+          'value'       => '',
+          'group' => __( 'Style', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'colorpicker',
+          'value' => '',
+          'heading' => __( 'Title Color', 'havnor-core' ),
+          'param_name' => 'title_color',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Pick your title color.', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'textfield',
+          'value' => '',
+          'heading' => __( 'Title Size', 'havnor-core' ),
+          'param_name' => 'title_size',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Enter the px value if you used title area in timeline style type one.', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'textfield',
+          'value' => '',
+          'heading' => __( 'Title Line Height', 'havnor-core' ),
+          'param_name' => 'title_line_height',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Enter the line height for title.', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'textfield',
+          'value' => '',
+          'heading' => __( 'Title Font Weight', 'havnor-core' ),
+          'param_name' => 'title_weight',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Enter the font weight for title.', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'colorpicker',
+          'value' => '',
+          'heading' => __( 'Sub Title Color', 'havnor-core' ),
+          'param_name' => 'subtitle_color',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Pick your subtitle color.', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'textfield',
+          'value' => '',
+          'heading' => __( 'Sub Title Size', 'havnor-core' ),
+          'param_name' => 'subtitle_size',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Enter the px value if you used subtitle area in timeline style type one.', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'textfield',
+          'value' => '',
+          'heading' => __( 'Sub Title Line Height', 'havnor-core' ),
+          'param_name' => 'subtitle_line_height',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Enter the line height for sub-title.', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'textfield',
+          'value' => '',
+          'heading' => __( 'Sub Title Font Weight', 'havnor-core' ),
+          'param_name' => 'subtitle_weight',
+          'group' => __( 'Style', 'havnor-core' ),
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'description' => __( 'Enter the font weight for sub-title', 'havnor-core' ),
+        ),
+        array(
+          "type"        => "notice",
+          "heading"     => __( "Text", 'omnitail-core' ),
+          "param_name"  => 'time_opttt',
+          'class'       => 'cs-info',
+          'value'       => '',
+          'group' => __( 'Style', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'colorpicker',
+          'value' => '',
+          'heading' => __( 'Text Color', 'havnor-core' ),
+          'param_name' => 'text_color',
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'group' => __( 'Style', 'havnor-core' ),
+        ),        
+        array(
+          'type' => 'textfield',
+          'value' => '',
+          'heading' => __( 'Text Size', 'havnor-core' ),
+          'param_name' => 'text_size',
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'group' => __( 'Style', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'textfield',
+          'value' => '',
+          'heading' => __( 'Text Line Height', 'havnor-core' ),
+          'param_name' => 'text_line_height',
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'group' => __( 'Style', 'havnor-core' ),
+        ), 
+        array(
+          "type"        => "notice",
+          "heading"     => __( "Dot", 'omnitail-core' ),
+          "param_name"  => 'time_optd',
+          'class'       => 'cs-info',
+          'value'       => '',
+          'group' => __( 'Style', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'colorpicker',
+          'value' => '',
+          'heading' => __( 'Dot Background Color', 'havnor-core' ),
+          'param_name' => 'dot_bg_color',
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'group' => __( 'Style', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'colorpicker',
+          'value' => '',
+          'heading' => __( 'Dot Background Hover Color', 'havnor-core' ),
+          'param_name' => 'dot_bg_hover_color',
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'group' => __( 'Style', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'colorpicker',
+          'value' => '',
+          'heading' => __( 'Dot Border Color', 'havnor-core' ),
+          'param_name' => 'dot_border_color',
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'group' => __( 'Style', 'havnor-core' ),
+        ),
+        array(
+          'type' => 'colorpicker',
+          'value' => '',
+          'heading' => __( 'Dot Border Hover Color', 'havnor-core' ),
+          'param_name' => 'dot_border_hover_color',
+          'edit_field_class'   => 'vc_col-md-6 vc_column vt_field_space',
+          'group' => __( 'Style', 'havnor-core' ),
+        ),
+
+      )
+    ) );
+  }
+}

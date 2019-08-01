@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: One Page were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/projekan/kplemigas
+Data file = /Applications/MAMP/htdocs/projekan/kplemigas/wp-content/uploads/2019/08/demo-content-import-file_2019-08-01__08-35-22.xml
+Widget file = /Applications/MAMP/htdocs/projekan/kplemigas/wp-content/uploads/2019/08/demo-widgets-import-file_2019-08-01__08-35-22.json
+Customizer file = /Applications/MAMP/htdocs/projekan/kplemigas/wp-content/uploads/2019/08/demo-customizer-import-file_2019-08-01__08-35-22.dat
+Redux files:
+not defined!
+
+------
+Codestar Framework files loaded.
+
+---Importing widgets---
+Main Widget Area : 
+
+Havnor: About Our Blog - About Our Blog - Imported
+Havnor: Latest Posts - Recent Posts - Imported
+Havnor: Text Widget - Social Media - Imported
+Cari - Search Keywords - Imported
+
+Footer Widget 1 : 
+
+Havnor: Text Widget - About Havnor - Imported
+
+Footer Widget 2 : 
+
+Havnor: Text Widget - Company - Imported
+
+Footer Widget 3 : 
+
+Havnor: Text Widget - Contact Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

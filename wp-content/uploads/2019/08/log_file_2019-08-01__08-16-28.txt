@@ -1,0 +1,30 @@
+
+---Upload files---
+Widget file was not uploaded. Error: Berkas yang ditunjuk tidak lolos uji pengunggahan.
+
+---Upload files---
+Customizer file was not uploaded. Error: Berkas yang ditunjuk tidak lolos uji pengunggahan.
+
+---Upload files---
+Redux file was not uploaded. Error: Berkas yang ditunjuk tidak lolos uji pengunggahan.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/projekan/kplemigas
+Data file = /Applications/MAMP/htdocs/projekan/kplemigas/wp-content/uploads/2019/08/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category Branding
+[WARNING] Failed to import portfolio_category Design
+[WARNING] Failed to import portfolio_category Identity
+[WARNING] Failed to import portfolio_category Others
+[WARNING] Failed to import portfolio_category Package
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
